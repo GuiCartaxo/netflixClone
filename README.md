@@ -8,6 +8,11 @@ Para alimentação dos dados utilizados no projeto, foi utilizada a API do site 
 
 ## Screens do projeto:
 
+![netflixclonemain](https://user-images.githubusercontent.com/60273788/105923949-0be77100-601c-11eb-9c19-06e39583a206.jpg)
+
+![netflixclonemain2](https://user-images.githubusercontent.com/60273788/105923964-1570d900-601c-11eb-8c7d-4c6021cceb71.jpg)
+
+![netflixclonemain3](https://user-images.githubusercontent.com/60273788/105923083-9b8c2000-601a-11eb-9345-2a7d0ec72bea.jpg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
