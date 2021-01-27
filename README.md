@@ -1,3 +1,15 @@
+#Netflix "Clone"
+
+Projeto para fins de portfólio. O mesmo consiste na simulação de funcionamento, estilização e componentes de animação da plataforma Netflix.
+
+Criado utilizando-se ReactJS, juntamente com a feature dos "Hooks".
+
+Para alimentação dos dados utilizados no projeto, foi utilizada a API do site Themoviedb.org.
+
+## Screens do projeto:
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
