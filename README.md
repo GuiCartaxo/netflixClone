@@ -1,4 +1,4 @@
-#Netflix "Clone"
+# Netflix "Clone"
 
 Projeto para fins de portfólio. O mesmo consiste na simulação de funcionamento, estilização e componentes de animação da plataforma Netflix.
 
